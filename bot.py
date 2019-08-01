@@ -5,7 +5,7 @@ import my_parser
 from Task import Task
 import murkups as m
 
-TOKEN = '982487983:AAEIQLhP4CGJ0WC1ZIS9drVj5BUjjru3T_U'
+
 MAIN_URL = f'https://api.telegram.org/bot{TOKEN}'
 
 # r = requests.get(f'{MAIN_URL}/getMe')
